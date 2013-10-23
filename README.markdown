@@ -3,6 +3,9 @@
 [![Coverage Status](https://coveralls.io/repos/avdi/naught/badge.png?branch=master)](https://coveralls.io/r/avdi/naught?branch=master)
 [![Gem Version](https://badge.fury.io/rb/naught.png)](http://badge.fury.io/rb/naught)
 
+## Version
+You are reading the documentation for the next release of Naught (0.0.3). The current stable release is [0.0.2](https://github.com/avdi/naught/blob/v0.0.2/README.org)
+
 A quick intro to Naught
 -------------------------
 
